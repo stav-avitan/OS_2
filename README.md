@@ -130,7 +130,6 @@ stshell - seppurt all of the following:
 4. stop the shell program using exit 
   
 #examples from terminal#
-#examples from terminal#
-![image] (https://github.com/stav-avitan/OS_2/blob/main/r9y0dpmp.png)
+![image](https://user-images.githubusercontent.com/120071641/236240553-3ff4e2a3-7fa2-47ed-85d6-76e194e15d25.png)
 - When the "exit" command is run, the program is exited!!
 
